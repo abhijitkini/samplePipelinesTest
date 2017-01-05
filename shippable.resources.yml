@@ -13,7 +13,7 @@ resources:
       isPull: false
     #make sure this seed version exists in your registry account
     seed:
-      versionName: TutorialJan4.3
+      versionName: TutorialJan4.4
 
 # Docker Image Options for VISUALIZER
   - name: dv-img-opts
